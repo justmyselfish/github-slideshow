@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Kard
+>Halo Halo, Red Moon
 Use the left arrow to go back!
